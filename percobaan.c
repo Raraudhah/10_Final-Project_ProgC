@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
-   printf("apa");
-   return 0; 
+int main(){
+    printf("wkwkwkw\n");
+
+    return 0;
 }
