@@ -1,0 +1,16 @@
+nazwa@gmail.com 2025-05-29 20:56:20 dinner roccoli 0
+nazwa@gmail.com 2025-05-29 21:36:41 lunch roccoli 34
+nazwa@gmail.com 2025-05-29 21:39:06 lunch roccoli 34
+nazwa@gmail.com 2025-05-29 21:44:24 dinner broccoli 68
+nazwa@gmail.com 2025-05-29 21:55:19 dinner katsu chicken 219
+nazwa@gmail.com 2025-05-29 22:02:04 dinner katsu chicken 219
+nazwa@gmail.com 2025-05-29 22:03:07 dinner broccoli 34
+nazwa@gmail.com 2025-05-29 23:00:17 dinner pempek 164
+nazwa@gmail.com 2025-05-29 23:25:35 dinner broccoli 85
+nazwa@gmail.com 2025-05-31 11:56:00 breakfast spaghetti 1110
+nazwa@gmail.com 2025-05-31 11:57:11 lunch chicken katsu 480
+nazwa@gmail.com 2025-05-31 11:58:23 dinner broccoli 47
+nazwa@gmail.com 2025-05-31 11:58:51 lunch chicken katsu 720
+nazwa@gmail.com 2025-05-31 12:08:41 lunch broccoli 34
+nazwa@gmail.com 2025-05-31 12:09:17 lunch chicken katsu 240
+nazwa@gmail.com 2025-05-31 18:16:21 dinner Broccoli 34
