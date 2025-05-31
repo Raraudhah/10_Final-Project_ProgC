@@ -1,0 +1,7 @@
+UserAdded,brocolli,100g,1000 cal,4184 kJ
+UserAdded,Ketoprak,100g,1000 cal,4184 kJ
+UserAdded,platter mix,100g,200 cal,837 kJ
+UserAdded,broccoli,100g,100 cal,418 kJ
+UserAdded,broccolli,100g,10 cal,42 kJ
+UserAdded,cannedfruit,100g,100 cal,418 kJ
+UserAdded,c:\Users\user\OneDrive\Documents\KULIAH\SEMESTER 4\PRAKTIKUM PEMROGRAMAN C++\Final Project\" ; if (,100g,2004640673 cal,8387416576 kJ

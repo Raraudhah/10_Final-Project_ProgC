@@ -1,0 +1,11 @@
+rara@gmail.com 2025-05-29 23:25:17 breakfast brocolli 10
+nazwa@gmail.com 2025-05-29 23:38:10 dinner Ketoprak 1000
+rara@gmail.com 2025-05-31 12:00:45 lunch platter mix 400
+rara@gmail.com 2025-05-31 12:59:24 breakfast broccoli 100
+rara@gmail.com 2025-05-31 13:00:44 lunch broccolli 10
+rara@gmail.com 2025-05-31 13:02:54 dinner cannedfruit 10
+rara@gmail.com 2025-05-31 13:03:05 breakfast broccoli 100
+rada@gmail.com 2025-05-31 19:19:16 breakfast broccoli 6421240
+rada@gmail.com 2025-05-31 19:19:16 breakfast c:\Users\user\OneDrive\Documents\KULIAH\SEMESTER 4\PRAKTIKUM PEMROGRAMAN C++\Final Project\" ; if ( -1040225
+rada@gmail.com 2025-05-31 19:19:57 breakfast broccoli 100
+rada@gmail.com 2025-05-31 19:24:34 breakfast broccoli 100
