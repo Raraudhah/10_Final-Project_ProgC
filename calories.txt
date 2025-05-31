@@ -2227,5 +2227,3 @@ nazwa@gmail.com 2025-05-29 17:58:04 breakfast asi goreng 0
 nazwa@gmail.com 2025-05-29 18:10:42 breakfast asi 0
 nazwa@gmail.com 2025-05-29 18:10:57 breakfast  "d:\FinproC\" ; if ($?) { gcc codec.c -o codec } ; if ($?) { .\codec } 0
 nazwa@gmail.com 2025-05-29 18:17:08 breakfast asi 0
-UserAdded,pempek,100g,164 cal,686 kJ
-UserAdded,chicken katsu,100g,240 cal,1004 kJ

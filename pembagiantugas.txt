@@ -1,0 +1,21 @@
+Raudhah =
+- void createAccount();
+- void login(); 
+- void forgotPassword(); 
+- void exerciseTrackMenu(cont char *email, int targetKalori); 
+- void dashboard(const char *email, int targetKalori);
+- void showExerciseHistory(const char *email);
+- void addNewExercise(const char *email);
+
+Nazwatu Syaadah =
+- void showMealHistory(const char *email);
+- void dailyMealMenu(const char *email);
+- void mealSubMenu(const char *email, const char *mealType);
+- void printMealHistory(const char *email, const char *mealType);
+- void addFood(const char *email, const char *mealType);
+- void createDirectories();
+- void showWeeklySummary(const char *email, int targetKalori);
+
+Kaizan Rafi Rayhaqi =
+- Buat PPT 
+- Buat flowchart
